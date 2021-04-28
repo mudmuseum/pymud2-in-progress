@@ -1,0 +1,39 @@
+{
+  "greeting": "
+                     _,,--.._
+                    /. ` ` .  `.
+                    )|       `  `.
+       .           / |         `  `
+        `.        / /            ` `
+         `.`.    / /              ` `
+           `.`.'' /                ' :
+            <','/'`                . ;
+           ,-'.-    `             , /
+       _.-',-^`       `      _.-----
+ /`==::.,-'     `       ` ,-'
+/ /               `     .;
+| |..               ` .,' `.
+| ':`....---.       ,'`'.   `.
+ .`:.:.:.:.:-..    /     `.   `.
+  .`ccoccoccoc'``./        `.   `.
+   `.`CQCCQCCCQCC/           `.   `.
+     `.`8O8O8O8O8(             `.   `.
+       `.`_-_@-@_-;              `. .'\"'.
+            '\"\"'                   :,' ,--'
+                                    `.` _,--
+             A                        `.  _,',.
+            (@)                         `. .-' `_
+                                          `. ,-^.`.
+               A                            `. - _.-.
+              (@)                             `.', ,'-
+                                                `. _,-`__
+                                                  `. _-,`|
+                                                    |,_-`|
+   Zot                                              '----'
+
+Welcome to THrOne! What is your traveler's name? ",
+  "commands": "Type the 'commands' command to get a list of available commands.",
+  "help": "This is the help! Try 'help starting'.",
+  "starting": "TODO...",
+  "motd": "Welcome to THrOne, a game of kingdoms and castles.\n\r"
+}
