@@ -15,6 +15,20 @@ A simple Python multiplayer MUD.
   * login
   * commands
 
+## Start up
+
+```bash
+./start.sh
+Loading game...
+Game loaded, loading help...
+Help loaded, loading world...
+World loaded, loading zones...
+Zones loaded, setting up socket server...
+Socket Server setup, running in thread Thread-1
+Game is ready to rock on 127.0.0.1:9000
+5 seconds have elapsed...
+```
+
 ## Greeting
 
 ```bash
